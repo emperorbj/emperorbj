@@ -1,11 +1,9 @@
-[MasterHead](https://www.evidencebasedmentoring.org/wp-content/uploads/2018/07/programming-1857236_1280_banner.jpg)
+![logo](https://images.squarespace-cdn.com/content/v1/628f6034c7af543ed46df9db/1675940465013-VYQ16QA96EC4CSAS97KW/Copy+of+Copy+of+Website+Banner+%281128+%C3%97+191px%29+%281500+%C3%97+500px%29+%282%29.png)
 <h1 align="center">Hi 👋, I'm Opatola Bolaji</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperorbj&label=Profile%20views&color=0e75b6&style=flat" alt="emperorbj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emperorbj" alt="emperorbj" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bolajiopatola" target="blank"><img src="https://img.shields.io/twitter/follow/bolajiopatola?logo=twitter&style=for-the-badge" alt="bolajiopatola" /></a> </p>
 
@@ -31,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emperorbj&show_icons=true&locale=en" alt="emperorbj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emperorbj&" alt="emperorbj" /></p>
+
+
+

@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.google.com/search?q=animation+coding+banner&tbm=isch&ved=2ahUKEwjRwenAzKuDAxVenCcCHaOXB0IQ2-cCegQIABAA&oq=animation+coding+banner&gs_lcp=CgNpbWcQAzoECCMQJzoGCAAQBxAeOgYIABAFEB46BQgAEIAEOgYIABAIEB5QvQlY6ixgsjZoAHAAeACAAeoBiAGEEJIBBTAuNS41mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=9fyJZZHzI964nsEPo6-ekAQ&bih=641&biw=1366&rlz=1C1GGRV_enNG1033NG1033)
 <h1 align="center">Hi 👋, I'm Opatola Bolaji</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animation+coding+gif&sca_esv=593637595&rlz=1C1GGRV_enNG1033NG1033&tbm=isch&sxsrf=AM9HkKn1aOWVNo6ia0sJ5tE3N4nR8Q1qtw:1703541962842&source=lnms&sa=X&ved=2ahUKEwj_hriszKuDAxVpTkEAHQXiA7wQ_AUoAXoECAMQAw&biw=1366&bih=641&dpr=1">

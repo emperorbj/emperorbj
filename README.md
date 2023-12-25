@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.google.com/search?q=animation+coding+banner&tbm=isch&ved=2ahUKEwjRwenAzKuDAxVenCcCHaOXB0IQ2-cCegQIABAA&oq=animation+coding+banner&gs_lcp=CgNpbWcQAzoECCMQJzoGCAAQBxAeOgYIABAFEB46BQgAEIAEOgYIABAIEB5QvQlY6ixgsjZoAHAAeACAAeoBiAGEEJIBBTAuNS41mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=9fyJZZHzI964nsEPo6-ekAQ&bih=641&biw=1366&rlz=1C1GGRV_enNG1033NG1033)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY-BKpaiPm3XYm_bVP2NXZ19vHcimUVFVPHg&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Opatola Bolaji</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animation+coding+gif&sca_esv=593637595&rlz=1C1GGRV_enNG1033NG1033&tbm=isch&sxsrf=AM9HkKn1aOWVNo6ia0sJ5tE3N4nR8Q1qtw:1703541962842&source=lnms&sa=X&ved=2ahUKEwj_hriszKuDAxVpTkEAHQXiA7wQ_AUoAXoECAMQAw&biw=1366&bih=641&dpr=1">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperorbj&label=Profile%20views&color=0e75b6&style=flat" alt="emperorbj" /> </p>
 

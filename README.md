@@ -1,17 +1,17 @@
 ![logo](https://images.squarespace-cdn.com/content/v1/628f6034c7af543ed46df9db/1675940465013-VYQ16QA96EC4CSAS97KW/Copy+of+Copy+of+Website+Banner+%281128+%C3%97+191px%29+%281500+%C3%97+500px%29+%282%29.png)
 <h1 align="center">Hi 👋, I'm Opatola Bolaji</h1>
-<h3 align="center">A passionate software developer from Nigeria</h3>
+<h3 align="center">A software developer and AI and Automated Systems Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperorbj&label=Profile%20views&color=0e75b6&style=flat" alt="emperorbj" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bolajiopatola" target="blank"><img src="https://img.shields.io/twitter/follow/bolajiopatola?logo=twitter&style=for-the-badge" alt="bolajiopatola" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce site**
+- 🔭 I’m currently working on **AI automated chatbots and automated workflow projects**
 
-- 🌱 I’m currently learning **Javascript, Typescript, React, Node.Js and Flutter**
+- 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **html, css, javascript and React**
+- 💬 Ask me about **html, css, javascript, Typescript and React**
 
 - 📫 How to reach me **cwaku96@gmail.com**
 

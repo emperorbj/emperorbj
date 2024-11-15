@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/bolajiopatola" target="blank"><img src="https://img.shields.io/twitter/follow/bolajiopatola?logo=twitter&style=for-the-badge" alt="bolajiopatola" /></a> </p>
 
-- 🔭 I’m currently working on **AI automated chatbots and automated workflow projects**
+- 🔭 I’m currently working on **A digital market place for renewable energy products with my team**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently expanding my skills in **Product Design and Google Cloud Computing**
 
 - 💬 Ask me about **html, css, javascript, Typescript and React**
 
